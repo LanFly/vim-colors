@@ -6,8 +6,8 @@ date: 2017-03-29
 
 ### How to use ?
 
-1. download **/colors/*.vim** file to your computer.
-2. move colors file to path: `~/.vim/colors/*.vim.` 
+1. download **/colors/*.vim** file to your computer
+2. move colors file to path: `~/.vim/colors/*.vim` 
 3. modify `~/.vimrc` like this:
 
 ```
@@ -30,4 +30,4 @@ date: 2017-03-29
   " the name of your theme file in `~/.vim/colors/`, do not contain suffix
   colorscheme Lan
 ```
-4. enjoy this.
+4. enjoy it
