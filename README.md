@@ -1,7 +1,7 @@
 # vim-colors
 White style theme For vim
 
-create by [Lan](mailto:bluescode@outlook.com) base on `molokai`
+create by [Lan](mailto:bluescode@outlook.com) base on `[molokai](https://github.com/tomasr/molokai)`
 date: 2017-03-29
 
 ### How to use ?
